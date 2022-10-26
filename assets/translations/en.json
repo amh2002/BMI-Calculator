@@ -1,0 +1,10 @@
+{
+  "titleAppBar": "BMI Calculator",
+  "Female": "Female",
+  "Male": "Male",
+  "Height": "HEIGHT",
+  "cm" : "cm",
+  "Age" : "AGE",
+  "Weight" : "WEIGHT"
+
+}
